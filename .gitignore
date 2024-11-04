@@ -62,3 +62,4 @@ typings/
 
 .mongo-connection.js
 .DS_Store
+.env
