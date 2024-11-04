@@ -61,3 +61,4 @@ typings/
 .vscode/
 
 .mongo-connection.js
+.DS_Store
